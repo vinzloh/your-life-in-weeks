@@ -1,0 +1,239 @@
+[
+  {
+    "timestamp": "1981-01-01",
+    "title": "Hello World!"
+  },
+  {
+    "timestamp": "1981-01-21",
+    "title": "*plotting to conquer the world*"
+  },
+  {
+    "timestamp": "1988-01-01",
+    "title": "Standard 1"
+  },
+  {
+    "timestamp": "1992-01-01",
+    "title": "Standard 5",
+    "description": ""
+  },
+  {
+    "timestamp": "1998-12-31",
+    "title": "SPM",
+    "description": ""
+  },
+  {
+    "timestamp": "1999-04-09",
+    "title": "Start INTI College",
+    "description": "at Subang Jaya"
+  },
+  {
+    "timestamp": "2000-12-24",
+    "title": "INTI Port Dickson Trip",
+    "description": ""
+  },
+  {
+    "timestamp": "2002-05-21",
+    "title": "Informatics Lecturer",
+    "description": ""
+  },
+  {
+    "timestamp": "2003-05-28",
+    "title": "Informatics",
+    "description": " - First Dinner & Dance :)"
+  },
+  {
+    "timestamp": "2003-08-20",
+    "title": "Synergos",
+    "description": " - thanks Meili!"
+  },
+  {
+    "timestamp": "2003-09-30",
+    "title": "LIMA @ Langkawi",
+    "description": " 30 Sep - 5 Oct 2003"
+  },
+  {
+    "timestamp": "2005-03-12",
+    "title": "Qinovar",
+    "description": " @ USJ"
+  },
+  {
+    "timestamp": "2005-05-15",
+    "title": "Yura, who changed the course of my life",
+    "description": " Olympic Belarusian Ice Hockey Player"
+  },
+  {
+    "timestamp": "2005-08-13",
+    "title": "Comverse",
+    "description": " contract work"
+  },
+  {
+    "timestamp": "2006-05-1",
+    "title": "ADV Fusionex",
+    "description": " @ Amcorp Mall"
+  },
+  {
+    "timestamp": "2006-05-21",
+    "title": "Jakarta visit Mira",
+    "description": " w/ Ken Fong, Shu"
+  },
+  {
+    "timestamp": "2006-11-19",
+    "title": "LeadingSide",
+    "description": " @ Midvalley"
+  },
+  {
+    "timestamp": "2007-02-05",
+    "title": "ISAM Ice Hockey!",
+    "description": " It begins! :D"
+  },
+  {
+    "timestamp": "2007-09-10",
+    "title": "Deloitte @ Damansara Uptown",
+    "description": ""
+  },
+  {
+    "timestamp": "2008-01-01",
+    "title": "GMAC Realtors",
+    "description": " w/ Adment & AAJ5095"
+  },
+  {
+    "timestamp": "2008-04-29",
+    "title": "Loke Ban Kin @ Pyramid Ice",
+    "description": ""
+  },
+  {
+    "timestamp": "2008-08-26",
+    "title": "Ice Skate Gang @ Penang!",
+    "description": ""
+  },
+  {
+    "timestamp": "2009-10-27",
+    "title": "Myvi - my first NEW car!",
+    "description": ""
+  },
+  {
+    "timestamp": "2009-12-12",
+    "title": "Stepping Stones @ Seputeh GMAC Charity",
+    "description": ""
+  },
+  {
+    "timestamp": "2009-12-13",
+    "title": "Hockey Charity @ Pyramic Ice",
+    "description": ""
+  },
+  {
+    "timestamp": "2010-03-27",
+    "title": "IIHF Challenge Cup of Asia",
+    "description": " @ Taipei, Taiwan 27 March - 5 April"
+  },
+  {
+    "timestamp": "2011-01-25",
+    "title": "Asian Winter Games :) @ Astana-Almaty, Kazakhstan",
+    "description": ""
+  },
+  {
+    "timestamp": "2011-05-29",
+    "title": "Ice Double! Div 1 & 2 Champions!",
+    "description": ""
+  },
+  {
+    "timestamp": "2011-06-11",
+    "title": "RJ Realtors at Solaris Dutamas",
+    "description": ""
+  },
+  {
+    "timestamp": "2011-08-09",
+    "title": "RJ Realtors @ Phuket!",
+    "description": ""
+  },
+  {
+    "timestamp": "2012-01-15",
+    "title": "Rolls Royce Ghost! :D",
+    "description": ""
+  },
+  {
+    "timestamp": "2012-03-01",
+    "title": "Celebrate Mom's Birtday! :D",
+    "description": ""
+  },
+  {
+    "timestamp": "2012-06-03",
+    "title": "Hockey Finals TENAGA VS JAZURA.",
+    "description": ""
+  },
+  {
+    "timestamp": "2014-02-24",
+    "title": "Royal Regent Handover!",
+    "description": ""
+  },
+  {
+    "timestamp": "2014-03-19",
+    "title": "1st Android App FSBO published on Google Play Store!",
+    "description": ""
+  },
+  {
+    "timestamp": "2014-03-26",
+    "title": "Bukit Tabur with QO",
+    "description": ""
+  },
+  {
+    "timestamp": "2014-10-19",
+    "title": "MaGIC Startup Career Fair",
+    "description": ""
+  },
+  {
+    "timestamp": "2015-07-08",
+    "title": "Cloudcoder Remote @ Penang!",
+    "description": ""
+  },
+  {
+    "timestamp": "2015-11-26",
+    "title": "1st open source contribution :)",
+    "description": "Contributed sticky-header to github.com/wenzhixin/bootstrap-table"
+  },
+  {
+    "timestamp": "2016-01-09",
+    "title": "Cloudcoder @ Taiwan 9-12 Jan",
+    "description": ""
+  },
+  {
+    "timestamp": "2017-02-24",
+    "title": "Cloudcoder @ Phuket! 24-27 Feb :)",
+    "description": ""
+  },
+  {
+    "timestamp": "2017-11-01",
+    "title": "vase.ai",
+    "description": ""
+  },
+  {
+    "timestamp": "2018-09-25",
+    "title": "upstack.co",
+    "description": ""
+  },
+  {
+    "timestamp": "2018-10-26",
+    "title": "MYVI PAIDUP! :)",
+    "description": ""
+  },
+  {
+    "timestamp": "2018-11-23",
+    "title": "Royal Regent SOLD! :)",
+    "description": ""
+  },
+  {
+    "timestamp": "2019-01-12",
+    "title": "Exit Kelana Puteri after 16 years!",
+    "description": ""
+  },
+  {
+    "timestamp": "2019-03-09",
+    "title": "BigPay!",
+    "description": ""
+  },
+  {
+    "timestamp": "2019-03-11",
+    "title": "Jirnexu!",
+    "description": ""
+  }
+]
